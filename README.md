@@ -1,7 +1,7 @@
 # Listing Docker Image Tag
 List up docker image tags from docker-hub API.
 
-<img src="doc/usage.gif" width="400">
+<img src="doc/usage.gif" width="700">
 
 ## Abstract
 You can search docker image tag by using below command.
