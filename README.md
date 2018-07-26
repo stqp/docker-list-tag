@@ -1,6 +1,8 @@
 # Listing Docker Image Tag
 List up docker image tags from docker-hub API.
 
+![usage image](https://github.com/stqp/docker-list-tag/blob/master/doc/usage.PNG)
+
 ## Abstract
 You can search docker image tag by using below command.
 
